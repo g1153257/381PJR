@@ -25,6 +25,7 @@ app.use(function(req, res, next){
 
 var users = new Array(
 	{name: 'demo', password: 'demo'},
+	{name: 'student', password: 'student'},
 	{name: 'guest', password: 'guest'}	
 );
 
